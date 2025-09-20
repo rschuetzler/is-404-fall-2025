@@ -6,3 +6,4 @@ This directory contains AI-generated summaries and related files.
 
 - [day_1.md](./day_1.md)
 - [day_2.md](./day_2.md)
+- [day_3.md](./day_3.md)
