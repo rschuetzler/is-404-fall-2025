@@ -3,7 +3,7 @@
 ## Main Topics
 
 ### 1. Why Linux?
-- **Servers and market share**: About 90% of servers run Linux/Unix-like operating systems; Windows has ~10%:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}.
+- **Servers and market share**: About 90% of servers run Linux/Unix-like operating systems; Windows has ~10%.
 - **Astronauts joke**: “You can’t open Windows in space” — memorable way of stressing Linux’s importance.
 
 ### 2. Basic Linux Navigation and Commands
@@ -91,3 +91,4 @@
 ### Help & Resources
 21. How can you find documentation for a Linux command from the terminal?  
 22. Why might using `man` or `--help` be better than just guessing command syntax?  
+
