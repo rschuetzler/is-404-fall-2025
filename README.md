@@ -12,6 +12,7 @@ This directory contains AI-generated summaries and related files.
 - [day_5.md](./day_5.md)
 - [day_6.md](./day_6.md)
 - [ethernet.md](./ethernet.md)
+- [ip-addressing.md](./ip-addressing.md)
 - [linux-2.md](./linux-2.md)
 - [network-layer.md](./network-layer.md)
 - [network-models.md](./network-models.md)
