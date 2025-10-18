@@ -11,6 +11,7 @@ This directory contains AI-generated summaries and related files.
 - [day_4.md](./day_4.md)
 - [day_5.md](./day_5.md)
 - [day_6.md](./day_6.md)
+- [dhcp-ipv6.md](./dhcp-ipv6.md)
 - [ethernet.md](./ethernet.md)
 - [ip-addressing.md](./ip-addressing.md)
 - [linux-2.md](./linux-2.md)
