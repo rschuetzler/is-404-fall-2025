@@ -19,4 +19,5 @@ This directory contains AI-generated summaries and related files.
 - [network-layer.md](./network-layer.md)
 - [network-models.md](./network-models.md)
 - [physical-layer.md](./physical-layer.md)
+- [transport-layer.md](./transport-layer.md)
 - [virtualization-linux.md](./virtualization-linux.md)
