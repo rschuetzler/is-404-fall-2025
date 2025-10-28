@@ -14,6 +14,7 @@ This directory contains AI-generated summaries and related files.
 - [dhcp-ipv6.md](./dhcp-ipv6.md)
 - [dns-and-aws-outage.md](./dns-and-aws-outage.md)
 - [ethernet.md](./ethernet.md)
+- [http.md](./http.md)
 - [ip-addressing.md](./ip-addressing.md)
 - [linux-2.md](./linux-2.md)
 - [network-layer.md](./network-layer.md)
