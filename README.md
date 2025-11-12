@@ -6,6 +6,7 @@ This directory contains AI-generated summaries and related files.
 
 - [Wifi.md](./Wifi.md)
 - [apis-email-remote-access.md](./apis-email-remote-access.md)
+- [aws-and-cloud.md](./aws-and-cloud.md)
 - [day_1.md](./day_1.md)
 - [day_2.md](./day_2.md)
 - [day_3.md](./day_3.md)
